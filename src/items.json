@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "name": "Owner1",
+    "picture": "images/prop1.jpg",
+    "price": "25 eth",
+    "location":"Mumbai"
+    
+  },
+  {
+    "id": 1,
+    "name": "Builder",
+    "picture": "images/prop2.jpg",
+    "price": "35 eth",
+    "location":"Mumbai"
+    
+  },
+  {
+    "id": 2,
+    "name": "Builder",
+    "picture": "images/test1.jpg",
+    "price": "35 eth",
+    "location":"Pune"
+   
+  },
+  {
+    "id": 3,
+    "name": "Owner2",
+    "picture": "images/prop4.jpg",
+    "price": "24 eth",
+    "location":"Pune"
+    
+  },
+  {
+    "id": 4,
+    "name": "owner3",
+    "picture": "images/prop5.jpg",
+    "price": "35 eth",
+    "location":"Mumbai"
+    
+  },
+  {
+    "id": 5,
+    "name": "Builder",
+    "picture": "images/prop6.jpg",
+    "price": "85 eth",
+    "location":"Pune"
+  
+  }
+ 
+]
